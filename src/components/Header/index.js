@@ -13,12 +13,12 @@ function Header() {
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
-        <Link to="/noticias">
+        <Link to="/who_we_are">
             <div className="headerLinks">
               <span className="texts">Quem Somos</span>
             </div>
           </Link>   
-            <Link to="/noticias">
+            <Link to="/work_with_us">
             <div className="headerLinks">
               <span className="texts">Trabalhe Conosco</span>
             </div>
@@ -31,12 +31,12 @@ function Header() {
             <div  className="dropdown-item">Português</div>
             <div  className="dropdown-item">Inglês</div>
           </NavDropdown>
-        <Link to="/noticias">
+        <Link to="/login">
             <div className="headerLinks">
               <span className="texts">Login</span>
             </div>
           </Link>   
-            <Link to="/noticias">
+            <Link to="/register">
             <div className="headerLinks">
               <span className="texts">Cadastro</span>
             </div>
