@@ -54,7 +54,7 @@ body{
 
   --color-high-green: #119957;
   --color-high-red: #f51d41;
-  --color-high-blue:#1a53ff;
+  --color-hover-blue:#8ba6f7;
 
   --color-blackPurple:#150f21;
   --color-blackWhite:#d6d5d2;
